@@ -42,4 +42,5 @@ div.sectionImage > img {
 div.sectionContent {
     flex: 1;
     padding: 20px;
+    font-family: "Lato", Helvetica, Arial, sans-serif;
 }
